@@ -1,6 +1,2 @@
-# hello-world
-Teste
-
-Mais um teste
-
-Teste Branch
+# Python_curse
+Páginas de estudos do Python
